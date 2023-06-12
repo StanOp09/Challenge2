@@ -173,6 +173,7 @@ header h2 {
 
 .list-format {
     display: flex;
+    align-items: center;
 }
 
 .list-format li {
@@ -182,8 +183,16 @@ header h2 {
     padding: 50px;
 }
 
+/* @media screen and (max-width: 992) {
+    .cards {
+        width: 100%;
+    }
 
-.flex-container1 {
-    display: flex;
-    align-items: center;
-}
+@media screen and (max-width: 768) {
+    .cards {
+        width: 100%;
+    }
+    .header-background {
+        background-color: orange; 
+    }
+} */
