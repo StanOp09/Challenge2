@@ -57,7 +57,7 @@ header h2 {
 
 /* Inserted image at subheader */
 .subheader-image {
-    background-image: url(/Challenge2/assets/images/neom-t3dlLOhdEzs-unsplash.jpg);
+    background-image: url(../images/neom-t3dlLOhdEzs-unsplash.jpg);
     background-size: cover;
     background-position: center;    
     height: 120px;
@@ -123,7 +123,7 @@ header h2 {
 
 /* Inserted image for "Alpha Romeo Project Report" */
 .box2-image {
-    background-image: url(/assets/images/pexels-adrian-regeci-13629582.jpg);
+    background-image: url(../images/pexels-adrian-regeci-13629582.jpg);
     background-size: cover;
     background-position: center;    
     height: 400px;
@@ -144,7 +144,7 @@ header h2 {
 
 /* Inserted image for "Astin Martin Project Report" */
 .box3-image {
-    background-image: url(/assets/images/pexels-josh-kobayashi-4083523.jpg);
+    background-image: url(../images/pexels-josh-kobayashi-4083523.jpg);
     background-size: cover;
     background-position: center;    
     height: 200px;
@@ -154,7 +154,7 @@ header h2 {
 
 /* Inserted image for "1987 Jaguar Project Report" */
 .box4-image {
-    background-image: url(/assets/images/pexels-ivan-kazlouski-12175805.jpg);
+    background-image: url(../images/pexels-ivan-kazlouski-12175805.jpg);
     background-size: cover;
     background-position: center;    
     height: 200px;
@@ -164,7 +164,7 @@ header h2 {
 
 /* Inserted image for "The Hummer Project Report" */
 .box5-image {
-    background-image: url(/assets/images/pexels-kaan-durmuş-9457133.jpg);
+    background-image: url(../images/pexels-kaan-durmuş-9457133.jpg);
     background-size: cover;
     background-position: center;    
     height: 200px;
@@ -174,7 +174,7 @@ header h2 {
 
 /* Inserted image for "Sports Cars Project Report" */
 .box6-image {
-    background-image: url(/assets/images/pexels-albin-berlin-919073.jpg);
+    background-image: url(../images/pexels-albin-berlin-919073.jpg);
     background-size: cover;
     background-position: center;    
     height: 200px;
